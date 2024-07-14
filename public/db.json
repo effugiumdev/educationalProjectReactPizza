@@ -1,0 +1,170 @@
+{
+  "pizzas": [
+    {
+      "id": 0,
+      "imageUrl": "https://media.dodostatic.net/image/r:233x233/11EE7D617E9339CFB185921A343AD8FD.avif",
+      "name": "Чозабретта",
+      "types": [
+        0,
+        1
+      ],
+      "sizes": [
+        26,
+        30,
+        40
+      ],
+      "price": 582,
+      "category": [0,1,2,3,4],
+      "rating": 9
+    },
+    {
+      "id": 1,
+      "imageUrl": "https://media.dodostatic.net/image/r:233x233/11EE7D612FC7B7FCA5BE822752BEE1E5.avif",
+      "name": "Пепперони фреш с перцем",
+      "types": [
+        0,
+        1
+      ],
+      "sizes": [
+        26,
+        30,
+        40
+      ],
+      "price": 803,
+      "category": 0,
+      "rating": 4
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://media.dodostatic.net/image/r:233x233/11EE7D610D2925109AB2E1C92CC5383C.avif",
+      "name": "Сырная",
+      "types": [
+        0
+      ],
+      "sizes": [
+        26,
+        40
+      ],
+      "price": 245,
+      "category": 1,
+      "rating": 6
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://media.dodostatic.net/image/r:233x233/11EE7D614CBE0530B7234B6D7A6E5F8E.avif",
+      "name": "Цыпленок барбекю",
+      "types": [
+        1
+      ],
+      "sizes": [
+        26,
+        30,
+        40
+      ],
+      "price": 295,
+      "category": [0,4],
+      "rating": 4
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://media.dodostatic.net/image/r:233x233/11EE7D613B84A5DBB4C1C50FB9583B7E.avif",
+      "name": "Песто",
+      "types": [
+        0,
+        1
+      ],
+      "sizes": [
+        26,
+        30,
+        40
+      ],
+      "price": 367,
+      "category": [1,3],
+      "rating": 5
+    },
+
+    {
+      "id": 5,
+      "imageUrl": "https://media.dodostatic.net/image/r:233x233/11EE7D6175C10773BFE36E56D48DF7E3.avif",
+      "name": "Жульен",
+      "types": [
+        1
+      ],
+      "sizes": [
+        26,
+        30,
+        40
+      ],
+      "price": 936,
+      "category": 0,
+      "rating": 2
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://media.dodostatic.net/image/r:233x233/11EE7D6108E3A1C9952CD3A7F39A4D02.avif",
+      "name": "Мясная",
+      "types": [
+        0
+      ],
+      "sizes": [
+        26,
+        30,
+        40
+      ],
+      "price": 345,
+      "category":3,
+      "rating": 4
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://media.dodostatic.net/image/r:233x233/11EE7D61706D472F9A5D71EB94149304.avif",
+      "name": "Мехико",
+      "types": [
+        0,
+        1
+      ],
+      "sizes": [
+        26,
+        30,
+        40
+      ],
+      "price": 489,
+      "category": 3,
+      "rating": 5
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://media.dodostatic.net/image/r:233x233/11EE7D61546D8483A61A0BBAA7ADCC78.avif",
+      "name": "Вегатерианская",
+      "types": [
+        0,
+        1
+      ],
+      "sizes": [
+        26,
+        30,
+        40
+      ],
+      "price": 629,
+      "category": 1,
+      "rating": 1
+    },
+    {
+      "id": 9,
+      "imageUrl": "https://media.dodostatic.net/image/r:233x233/11EE7D6105EF6690B86FBDE6150B5B0C.avif ",
+      "name": "Маргарита",
+      "types": [
+        0,
+        1
+      ],
+      "sizes": [
+        26,
+        30,
+        40
+      ],
+      "price": 746,
+      "category": 1,
+      "rating": 4
+    }
+  ]
+}
